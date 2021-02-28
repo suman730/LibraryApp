@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">LibraryUserApp</string>
+    <string name="logo_name">Get Knowledge</string>
+    <string name="slogan_name">We will help you</string>
+
+    <string name="first_slide_title">Search Your Books</string>
+    <string name="second_slide_title">Satisfy the thirst of knowledge</string>
+    <string name="third_slide_title">Feed the mind</string>
+
+    <!--Categories -->
+    <string name="books">Books</string>
+    <string name="qpaper">Question Paper</string>
+    <string name="magazine">Magazine</string>
+    <string name="project_report">Project Reports</string>
+    <string name="syllabus">Syllabus</string>
+
+
+    <!--Titles and Descriptions -->
+    <string name="featured_books">All Featured Books</string>
+    <string name="featured_books_desc">All the books that are featured and have the top demand in libraries</string>
+    <string name="most_viewed_books">Most Viewed</string>
+    <string name="search_text">Search.....</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View all</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about">Libraries are important cornerstones of a healthy community.  Libraries give people the opportunity to find jobs, explore medical research, experience new ideas, get lost in wonderful stories, while at the same time providing a sense of place for gathering.
+        The Library reflects the diversity and character, and the needs and expectations of our community.  Those needs and expectations are often extensive, and the services invaluable.
+        The Library is often the only readily available source of comprehensive information needed by people for personal, family and job-related purposes.  Our communities economy benefits when business people use library resources to make wise business decisions, employees use it to improve job skills, or the disadvantaged use it to help break the cycle of poverty.  During economic hardship, our citizens turn to and depend on the library.
+        Over summer vacations, evenings and weekends, the Library is the only library available to school children; for preschoolers it is simply the only library available.  College students often use the library when they are home for the weekend or for holidays.  And the reference resources in public libraries are usually unavailable elsewhere in the community.
+        Our library is a unique and valuable resource.  It is a lifeline to the world and all the information in it.</string>
+</resources>
